@@ -1,0 +1,5 @@
+<library path = "lib/libp_controller_lib">
+    <class  name = "p_controller/PController"
+            type = "p_controller_ns::PController"
+            base_class_type = "controller_interface::ControllerBase" />
+</library>

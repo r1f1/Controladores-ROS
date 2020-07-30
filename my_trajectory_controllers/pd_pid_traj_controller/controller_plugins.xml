@@ -1,0 +1,5 @@
+<library path = "lib/libpd_pid_traj_controller_lib">
+    <class  name = "pd_pid_traj_controller/PdPidTrajController"
+            type = "pd_pid_traj_controller_ns::PdPidTrajController"
+            base_class_type = "controller_interface::ControllerBase" />
+</library>

@@ -1,0 +1,5 @@
+<library path = "lib/libpdgd_controller_lib">
+    <class  name = "pdgd_controller/PdgdController"
+            type = "pdgd_controller_ns::PdgdController"
+            base_class_type = "controller_interface::ControllerBase" />
+</library>
